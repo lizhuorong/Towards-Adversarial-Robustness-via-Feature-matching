@@ -1,0 +1,1 @@
+Download the dataset CIFAR-100 and put it into this folder.
