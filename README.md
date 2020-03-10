@@ -37,7 +37,7 @@ The code consists of Python scripts and the file config.json that contains vario
 -	a: the size of the PGD adversary steps.
 -	random_start: specifies whether the adversary will start iterating from the natural example or a random perturbation of it.
 -	loss_func: the loss function used to run pgd on. 
-## Pre-trained models
+## Pre-trained models and Results
 Following set of pre-trained checkpoints released with this code:
 |Model|Dataset|Accuracy on clean images|Accuracy on c&w_8_2_30|Accuracy on pgd_8_2_7|Accuracy on pgd_8_2_20|
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -48,3 +48,5 @@ Following set of pre-trained checkpoints released with this code:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |[wider-ResNet-Cifar100](https://pan.baidu.com/s/1M9yL6oqo7_PXS2JhpnEpKw)  (access code: whoy)|Cifar-100|59.51%|28.00%|31.68%|31.11%|
 
+## Acknowledgments
+Code referred to the implementation of the [paper](https://arxiv.org/abs/1706.06083)
