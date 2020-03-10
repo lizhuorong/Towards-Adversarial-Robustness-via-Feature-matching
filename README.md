@@ -41,10 +41,10 @@ The code consists of Python scripts and the file config.json that contains vario
 Following set of pre-trained checkpoints released with this code:
 |Model|Dataset|Accuracy on clean images|Accuracy on c&w_8_2_30|Accuracy on pgd_8_2_7|Accuracy on pgd_8_2_20|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|[wider-ResNet-Cifar10](https://pan.baidu.com/s/1qOa01xfBEbd4Pjkes7rwNw)  (access code:b298)|Cifar10|85.21%|51.54%|55.74%|52.95%|
+|[wider-ResNet-Cifar10](https://pan.baidu.com/s/1qOa01xfBEbd4Pjkes7rwNw)  (access code:b298)|Cifar-10|85.21%|51.54%|55.74%|52.95%|
 
 
 |Model|Dataset|Accuracy on clean images|Accuracy on c&w_8_2_10|Accuracy on pgd_8_2_10|Accuracy on pgd_8_2_20|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|[wider-ResNet-Cifar100](https://pan.baidu.com/s/1M9yL6oqo7_PXS2JhpnEpKw)  (access code: whoy)|Cifar100|59.51%|28.00%|31.68%|31.11%|
+|[wider-ResNet-Cifar100](https://pan.baidu.com/s/1M9yL6oqo7_PXS2JhpnEpKw)  (access code: whoy)|Cifar-100|59.51%|28.00%|31.68%|31.11%|
 
