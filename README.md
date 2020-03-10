@@ -1,5 +1,6 @@
 # Towards-Adversarial-Robustness-via-Feature-Matching
 This directory contains implementation of an enhanced adversarial training paper as well as models pre-trained on CIFAR-10 and CIFAR-100.
+Please contact [CHAO FENG](https://github.com/sqy2012) regarding this code.
 ## Pre-requesites
 
 - TensorFlow 1.4 and Python 3.5 
@@ -30,4 +31,4 @@ Following set of pre-trained checkpoints released with this code:
 |[wider-ResNet-Cifar100](https://pan.baidu.com/s/1M9yL6oqo7_PXS2JhpnEpKw)  (access code: whoy)|Cifar-100|59.51%|28.00%|31.68%|31.11%|
 
 ## Acknowledgments
-Code referred to the implementation of the [paper](https://arxiv.org/abs/1706.06083)
+Code referred to the implementation of the [paper](https://arxiv.org/abs/1706.06083).
