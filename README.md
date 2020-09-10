@@ -1,5 +1,6 @@
 # Towards-Adversarial-Robustness-via-Feature-Matching
-This directory contains implementation of an enhanced adversarial training paper as well as models pre-trained on CIFAR-10 and CIFAR-100.
+This directory contains implementation of an enhanced adversarial training [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9089860) as well as models pre-trained on CIFAR-10 and CIFAR-100.
+
 Please contact [CHAO FENG](https://github.com/sqy2012) regarding this code.
 ## Pre-requesites
 
